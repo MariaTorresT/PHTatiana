@@ -1,6 +1,6 @@
 deployment:
   staging:
-    branch: master1
+    branch: master
     heroku: 
       appname: phtatiana
 
